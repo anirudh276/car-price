@@ -343,4 +343,7 @@ mae = mean_absolute_error(y_test, y_pred)
 print("MAE without outliers:", mae)
 mse = mean_squared_error(y_test, y_pred)
 print("MSE without outliers:", mse)
-
+#output
+MAE without outliers: 2331.4841809803816
+MSE without outliers: 11519060.225614587
+r2 score:0.8504771200231704
